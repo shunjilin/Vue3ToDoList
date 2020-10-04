@@ -1,4 +1,8 @@
-# todolist
+# ToDo List
+
+Toy application to demonstrate how to decompose an application using Vue 3's new Reactivity APIs.
+
+[Link to blog post explaining the demonstration.](https://shunjilin.com/blog/decomposing-vue-3-components)
 
 ## Project setup
 ```
