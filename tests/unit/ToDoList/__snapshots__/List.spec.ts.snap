@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List renders with todo items 1`] = `
+<ul>
+  
+  <li>
+    <input
+      type="checkbox"
+    />
+    <span
+      class="false"
+    >
+      item 1
+    </span>
+    <span
+      class="close"
+    >
+      ×
+    </span>
+  </li>
+  <li>
+    <input
+      type="checkbox"
+    />
+    <span
+      class="completed"
+    >
+      item 2
+    </span>
+    <span
+      class="close"
+    >
+      ×
+    </span>
+  </li>
+  
+</ul>
+`;
